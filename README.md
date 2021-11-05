@@ -1,5 +1,9 @@
 # Reversed App - Server
 
+## Server is up ✨
+
+https://reversed-app-server.herokuapp.com/iecho?text=ana
+
 ## Route
 
 > GET /iecho?text={{param}}
